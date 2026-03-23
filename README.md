@@ -67,6 +67,7 @@ const codesuke = {
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=codesuke&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&rank_icon=github"/>
+  
   <img height="170em" src="https://streak-stats.demolab.com/?user=codesuke&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF"/>
 </div>
 
@@ -121,7 +122,7 @@ const codesuke = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codesuke)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codesuke)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codesuke@gmail.com)
 
 </div>
 
