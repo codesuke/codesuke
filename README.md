@@ -84,6 +84,7 @@ const codesuke = {
 <div align="center">
 
 | | |
+|:---|:---|
 | **Frontend + Backend** | Comfortable owning the full stack — from React components to Express APIs to database schemas. |
 | **Ship & iterate** | I deploy early, get real feedback, and improve. Not a "perfect it in local" kind of dev. |
 | **Reads the docs** | Before reaching for a library, I understand the problem it solves. |
