@@ -67,7 +67,7 @@ const codesuke = {
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=codesuke&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&rank_icon=github"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=codesuke&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF"/>
+  <img height="170em" src="https://streak-stats.demolab.com/?user=codesuke&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF"/>
 </div>
 
 <br/>
@@ -83,7 +83,6 @@ const codesuke = {
 <div align="center">
 
 | | |
-|:---|:---|
 | **Frontend + Backend** | Comfortable owning the full stack — from React components to Express APIs to database schemas. |
 | **Ship & iterate** | I deploy early, get real feedback, and improve. Not a "perfect it in local" kind of dev. |
 | **Reads the docs** | Before reaching for a library, I understand the problem it solves. |
@@ -96,7 +95,7 @@ const codesuke = {
 
 <div align="center">
 
-*Not a 10x dev. Just a 1x dev who refuses to stay 1x.*
+*Not a 100x dev. Just a 0.1x dev who refuses to stay 0.1x.*
 
 </div>
 
@@ -131,7 +130,5 @@ const codesuke = {
 <div align="center">
 
 *Open to collaboration, freelance work, and open-source contributions.*
-
-![Visitor Count](https://profile-counter.glitch.me/codesuke/count.svg)
 
 </div>
