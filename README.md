@@ -1,19 +1,24 @@
-<h1 align="left">Greetings!! Codesuke here.</h1>
-<h3 align="left">Full-stack developer focused on dependable, well-structured web software.</h3>
+<h1 align="center">Greetings!! Codesuke here.</h1>
+<h3 align="center">Full-stack developer focused on dependable, well-structured web software.</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/codesuke"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/codesuke"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:codesuke@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=codesuke&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
 </p>
 
-- SDE Intern at [@FISSTACADEMY](https://github.com/FISSTACADEMY).
-- I build type-first web applications with React and Next.js on the client, backed by Node.js services and relational data models.
-- My current focus is writing maintainable TypeScript, improving test discipline, and understanding the performance characteristics of the systems I ship.
-- I enjoy conversations about web architecture, developer tooling, and open source. Reach me at **[codesuke@gmail.com](mailto:codesuke@gmail.com)**.
+<p align="center">
+  SDE Intern at <a href="https://github.com/FISSTACADEMY">@FISSTACADEMY</a>.<br />
+  I build type-first web applications with React and Next.js, backed by Node.js services and relational data models.<br />
+  Currently focused on maintainable TypeScript, test discipline, and system performance.<br />
+  Always happy to talk web architecture, developer tooling, and open source: <a href="mailto:codesuke@gmail.com">codesuke@gmail.com</a>.
+</p>
 
-<p align="left">
-  <a href="https://github.com/codesuke"><img width="360" src="https://github-readme-stats.vercel.app/api?username=codesuke&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=8B949E&icon_color=58A6FF&rank_icon=github" alt="Codesuke's GitHub statistics" /></a>
+<p align="center">
+  <a href="https://github.com/codesuke">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=codesuke&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=8B949E&icon_color=58A6FF&rank_icon=github" alt="Codesuke's GitHub statistics" />
+  </a>
 </p>
 
 <p align="center">
@@ -60,9 +65,15 @@
 
 ## GitHub Activity
 
-<p align="left">
-  <img height="165" src="https://streak-stats.demolab.com?user=codesuke&theme=github-dark-blue&hide_border=true" alt="Codesuke's GitHub contribution streak" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesuke&layout=compact&hide_border=true&bg_color=00000000&text_color=8B949E&title_color=58A6FF" alt="Codesuke's most-used languages" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img height="170" src="https://streak-stats.demolab.com?user=codesuke&theme=github-dark-blue&hide_border=true" alt="Codesuke's GitHub contribution streak" />
+    </td>
+    <td align="center">
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesuke&layout=compact&hide_border=true&bg_color=00000000&text_color=8B949E&title_color=58A6FF" alt="Codesuke's most-used languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center"><strong>Not a 10× developer yet—just a 0.1× developer compounding toward it.</strong></p>
