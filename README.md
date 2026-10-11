@@ -126,4 +126,4 @@
   </tr>
 </table>
 
-<p align="center"><strong>Not a 10× developer yet—just a 0.1× developer compounding toward it.</strong></p>
+<p align="center"><strong>Just a 0.1× dev, steadily progressing toward 10×.</strong></p>
