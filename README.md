@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=codesuke.codesuke&left_text=Profile%20views" alt="Profile views" />
-  <a href="https://github.com/codesuke?tab=followers"><img src="https://img.shields.io/github/followers/codesuke?label=Followers&style=flat&color=58A6FF&logo=github&logoColor=white" alt="GitHub followers" /></a>
-  <img src="https://img.shields.io/github/last-commit/codesuke/codesuke?label=Profile%20updated&style=flat&color=58A6FF" alt="Profile last updated" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/codesuke"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/codesuke"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:codesuke@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
 <table>
   <tr>
     <td valign="middle">
@@ -31,6 +19,12 @@
 <p align="center">
   <i>“Talent is something you make bloom, instinct is something you polish.”</i><br />
   — Oikawa Tōru, <i>Haikyū!!</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/codesuke"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/codesuke"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:codesuke@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ## Preferred Stack
