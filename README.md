@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codesuke&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
+</p>
+
 <h1 align="center">Greetings!! Codesuke here.</h1>
 <h3 align="center">Full-stack developer focused on dependable, well-structured web software.</h3>
 
@@ -5,23 +9,22 @@
   <a href="https://github.com/codesuke"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/codesuke"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:codesuke@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=codesuke&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
 </p>
 
 <table>
   <tr>
-    <td width="42%" valign="top" align="center">
-      <a href="https://github.com/codesuke">
-        <img height="170" src="https://github-readme-stats.vercel.app/api?username=codesuke&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=8B949E&icon_color=58A6FF&rank_icon=github" alt="Codesuke's GitHub statistics" />
-      </a>
-    </td>
-    <td width="58%" valign="top">
+    <td valign="middle">
       <ul>
         <li>SDE Intern at <a href="https://github.com/FISSTACADEMY">@FISSTACADEMY</a>.</li>
         <li>I build type-first web applications with React and Next.js, backed by Node.js services and relational data models.</li>
         <li>Currently focused on maintainable TypeScript, test discipline, and system performance.</li>
         <li>Always happy to talk web architecture, developer tooling, and open source: <a href="mailto:codesuke@gmail.com">codesuke@gmail.com</a>.</li>
       </ul>
+    </td>
+    <td valign="middle" align="right">
+      <a href="https://github.com/codesuke">
+        <img width="467" src="https://github-readme-stats.vercel.app/api?username=codesuke&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=8B949E&icon_color=58A6FF&rank_icon=github" alt="Codesuke's GitHub statistics" />
+      </a>
     </td>
   </tr>
 </table>
