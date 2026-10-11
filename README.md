@@ -8,18 +8,23 @@
   <img src="https://komarev.com/ghpvc/?username=codesuke&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  SDE Intern at <a href="https://github.com/FISSTACADEMY">@FISSTACADEMY</a>.<br />
-  I build type-first web applications with React and Next.js, backed by Node.js services and relational data models.<br />
-  Currently focused on maintainable TypeScript, test discipline, and system performance.<br />
-  Always happy to talk web architecture, developer tooling, and open source: <a href="mailto:codesuke@gmail.com">codesuke@gmail.com</a>.
-</p>
-
-<p align="center">
-  <a href="https://github.com/codesuke">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=codesuke&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=8B949E&icon_color=58A6FF&rank_icon=github" alt="Codesuke's GitHub statistics" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="42%" valign="top" align="center">
+      <a href="https://github.com/codesuke">
+        <img height="170" src="https://github-readme-stats.vercel.app/api?username=codesuke&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=8B949E&icon_color=58A6FF&rank_icon=github" alt="Codesuke's GitHub statistics" />
+      </a>
+    </td>
+    <td width="58%" valign="top">
+      <ul>
+        <li>SDE Intern at <a href="https://github.com/FISSTACADEMY">@FISSTACADEMY</a>.</li>
+        <li>I build type-first web applications with React and Next.js, backed by Node.js services and relational data models.</li>
+        <li>Currently focused on maintainable TypeScript, test discipline, and system performance.</li>
+        <li>Always happy to talk web architecture, developer tooling, and open source: <a href="mailto:codesuke@gmail.com">codesuke@gmail.com</a>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <i>“Talent is something you make bloom, instinct is something you polish.”</i><br />
