@@ -1,5 +1,5 @@
-<h1 align="left"><code>codesuke@github:~$ ./introduce</code></h1>
-<h3 align="left">Full-stack developer engineering reliable systems from interface to database.</h3>
+<h1 align="left">Greetings!! Codesuke here.</h1>
+<h3 align="left">Full-stack developer focused on dependable, well-structured web software.</h3>
 
 <p align="left">
   <a href="https://github.com/codesuke"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -7,19 +7,19 @@
   <a href="mailto:codesuke@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<a href="https://github.com/codesuke"><img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=codesuke&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=8B949E&icon_color=58A6FF&rank_icon=github" alt="Codesuke's GitHub statistics" /></a>
+- SDE Intern at [@FISSTACADEMY](https://github.com/FISSTACADEMY).
+- I build type-first web applications with React and Next.js on the client, backed by Node.js services and relational data models.
+- My current focus is writing maintainable TypeScript, improving test discipline, and understanding the performance characteristics of the systems I ship.
+- I enjoy conversations about web architecture, developer tooling, and open source. Reach me at **[codesuke@gmail.com](mailto:codesuke@gmail.com)**.
 
-- 🎓 &nbsp;Computer science student in India, sharpening the fundamentals behind production-grade software.
-- ⚙️ &nbsp;I build across the stack: React interfaces, Node.js services, and pragmatic relational data models.
-- 🧠 &nbsp;Current research vector: TypeScript, system design, test strategy, and performance engineering.
-- 💬 &nbsp;Always up for conversations about web architecture, developer tooling, and open source.
-- 📫 &nbsp;Reach me at **[codesuke@gmail.com](mailto:codesuke@gmail.com)**.
+<p align="left">
+  <a href="https://github.com/codesuke"><img width="360" src="https://github-readme-stats.vercel.app/api?username=codesuke&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=8B949E&icon_color=58A6FF&rank_icon=github" alt="Codesuke's GitHub statistics" /></a>
+</p>
 
-<br clear="right" />
-
-> *“Talent is something you make bloom, instinct is something you polish.”* — Oikawa Tōru, *Haikyū!!*
->
-> **Not a 10× developer yet—just a 0.1× developer compounding toward it.**
+<p align="center">
+  <i>“Talent is something you make bloom, instinct is something you polish.”</i><br />
+  — Oikawa Tōru, <i>Haikyū!!</i>
+</p>
 
 ## Preferred Stack
 
@@ -67,3 +67,5 @@ codesuke@github:~$ cat focus.txt
 [ARCHITECTURE]    Understand the system behind the interface.
 [EXECUTION]       Ship → measure → refine → repeat.
 ```
+
+<p align="center"><strong>Not a 10× developer yet—just a 0.1× developer compounding toward it.</strong></p>
