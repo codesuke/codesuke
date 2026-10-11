@@ -58,14 +58,11 @@
   </tr>
 </table>
 
-## Current Directive
+## GitHub Activity
 
-```text
-codesuke@github:~$ cat focus.txt
-
-[TYPE SYSTEMS]    Write safer, more maintainable applications.
-[ARCHITECTURE]    Understand the system behind the interface.
-[EXECUTION]       Ship → measure → refine → repeat.
-```
+<p align="left">
+  <img height="165" src="https://streak-stats.demolab.com?user=codesuke&theme=github-dark-blue&hide_border=true" alt="Codesuke's GitHub contribution streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesuke&layout=compact&hide_border=true&bg_color=00000000&text_color=8B949E&title_color=58A6FF" alt="Codesuke's most-used languages" />
+</p>
 
 <p align="center"><strong>Not a 10× developer yet—just a 0.1× developer compounding toward it.</strong></p>
