@@ -1,9 +1,8 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=codesuke.codesuke&left_text=Profile%20views" alt="Profile views" />
+  <a href="https://github.com/codesuke?tab=followers"><img src="https://img.shields.io/github/followers/codesuke?label=Followers&style=flat&color=58A6FF&logo=github&logoColor=white" alt="GitHub followers" /></a>
+  <img src="https://img.shields.io/github/last-commit/codesuke/codesuke?label=Profile%20updated&style=flat&color=58A6FF" alt="Profile last updated" />
 </p>
-
-<h1 align="center">Greetings!! Codesuke here.</h1>
-<h3 align="center">Full-stack developer focused on dependable, well-structured web software.</h3>
 
 <p align="center">
   <a href="https://github.com/codesuke"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
